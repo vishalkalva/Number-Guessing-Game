@@ -36,3 +36,21 @@ while True:
     # Give feedback if the guess is too low
     else:
         print("Too low!")
+
+
+# A Sample Output
+# Enter a number between 1 and 100: 50
+# User number: 50
+# Attempts: 1
+# Too low!
+
+# Enter a number between 1 and 100: 75
+# User number: 75
+# Attempts: 2
+# Too high!
+
+# Enter a number between 1 and 100: 63
+# User number: 63
+# Attempts: 3
+# It's correct!
+# You guessed it in 3 attempts!
