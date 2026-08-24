@@ -50,58 +50,90 @@ The objective of this task is to develop a basic text-based game using:
 
 A simple output:
 Enter a number between 1 and 100: 2
+
 User number: 2
+
 Attempts: 1
+
 Too low!
 
 Enter a number between 1 and 100: 10
+
 User number: 10
+
 Attempts: 2
+
 Too low!
 
 Enter a number between 1 and 100: 20
+
 User number: 20
+
 Attempts: 3
+
 Too low!
 
 Enter a number between 1 and 100: 60
+
 User number: 60
+
 Attempts: 4
+
 Too low!
 
 Enter a number between 1 and 100: 80
+
 User number: 80
+
 Attempts: 5
+
 Too high!
 
 Enter a number between 1 and 100: 60
+
 User number: 60
+
 Attempts: 6
+
 Too low!
 
 Enter a number between 1 and 100: 70
 User number: 70
+
 Attempts: 7
+
 Too low!
 
 Enter a number between 1 and 100: 75
+
 User number: 75
+
 Attempts: 8
+
 Too low!
 
 Enter a number between 1 and 100: 79
+
 User number: 79
+
 Attempts: 9
+
 Too high!
 
 Enter a number between 1 and 100: 78
+
 User number: 78
+
 Attempts: 10
+
 Too high!
 
 Enter a number between 1 and 100: 77
+
 User number: 77
+
 Attempts: 11
+
 It's correct!
 
 You guessed it in 11 attempts!
